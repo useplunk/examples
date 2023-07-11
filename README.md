@@ -17,3 +17,7 @@ This repository contains various example setups that show how to use [Plunk](htt
 ### Segment
 
 - [Segment Functions](/segment-functions)
+
+### Next Auth
+
+- [Next Auth](/nextauth/)
