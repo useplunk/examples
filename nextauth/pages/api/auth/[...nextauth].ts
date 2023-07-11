@@ -9,7 +9,7 @@ export const authOptions: NextAuthOptions = {
     EmailProvider({
       name: "email",
       server: "",
-      from: "YOUR EMAIL FROM (eg: team@resend.com)",
+      from: "hello@useplunk.com",
       sendVerificationRequest,
     }),
   ],
